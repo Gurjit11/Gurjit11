@@ -2,7 +2,7 @@
 
 <h3>A web developer with a passion for building great websites and web applications, you'll find a variety of projects showcasing my skills and creativity.</h3>
 <br>
-- 🌱 I’m currently learning **JS, REACT, NEXTJS**
+- 🌱 I’m currently learning  <b>JS, REACT, NEXTJS</b>
 
 <br>
 <h2 align="left">Languages and Tools:</h2>
