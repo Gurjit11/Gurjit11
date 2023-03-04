@@ -2,6 +2,7 @@
 <h3 align="center">Indiscriminate passion towards anything!</h3>
 
 <br>
+<br>
 - 🌱 I’m currently learning  <b>JS, REACT, NEXTJS</b>
 
 <br>
