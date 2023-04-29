@@ -3,7 +3,7 @@
 
 <br>
 <br>
-- 🌱 I’m currently learning  <b>JS, REACT, NEXTJS</b>
+- 🌱 I’m currently learning  <b>JS, NODE.JS, NEXT.JS</b>
 
 <br>
 <h2 align="left">Languages and Tools:</h2>
