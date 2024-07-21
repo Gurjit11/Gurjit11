@@ -1,7 +1,15 @@
 <h1 align="center">Hi , I'm Gurjit Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3></h1>
 <h3 align="center">Indiscriminate passion towards everything!🚀</h3>
+<p></p>
+🌐
+<a href="https://gurjit-singh-portfolio.web.app/" target="blank"> Visit my Portfolio</a>
+📃
+<a href="https://gurjit-singh-resume.tiiny.site/" target="blank">View my Resume</a>
 <br>
-- 🌱 I’m currently learning  <b>TS, NEXT.JS, NODE.JS</b>
+<br>
+- 📈 I’m currently building <b>AI RAG chatbot for Google Sales Team</b>
+<br>
+- 🌱 I’m currently learning  <b>AI Integrations, RAG, TS, NEXT.JS</b>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
