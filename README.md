@@ -1,22 +1,31 @@
-<h1 align="center">Hi , I'm Gurjit Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3></h1>
-<h3 align="center">Indiscriminate passion towards everything!🚀</h3>
-<p></p>
-🌐
-<a href="https://gurjit-singh-portfolio.web.app/" target="blank"> Visit my Portfolio</a>
-📃
-<a href="https://gurjit-singh-resume.tiiny.site/" target="blank">View my Resume</a>
-<br>
-<br>
-- 📈 I’m currently building <b>AI RAG chatbot for Google Sales Team</b>
-<br>
-- 🌱 I’m currently learning  <b>AI Integrations, RAG, TS, NEXT.JS</b>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gurjit-singh-1164a0235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="gurjit-singh-1164a0235" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/guru92921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guru92921" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
+  <h1 align="center">Hi, I'm Gurjit Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+  <h3 align="center">Passionate about AI, Full-Stack Development, and Innovation 🚀</h3>
+
+  
+  <h2>🌐 Explore My Work</h2>
+  <ul>
+    <li>💻 <a href="https://gurjit-singh-portfolio.web.app/" target="_blank">Visit My Portfolio</a></li>
+    <li>📄 <a href="https://gurjit-singh-resume.tiiny.site/" target="_blank">View My Resume</a></li>
+  </ul>
+
+  <h2>🚀 About Me</h2>
+  <ul>
+    <li>📈 <strong>Currently working on:</strong> Autonomous Dashboard for Mahindra and other exciting AI projects.</li>
+    <li>🧠 <strong>Previously developed:</strong> AI RAG chatbot for Google's Sales Team and an expense tracking tool with Azure and LLMs.</li>
+    <li>🌱 <strong>Currently learning:</strong> AI Integrations, Retrieval Augmented Generation (RAG), TypeScript, and Next.js.</li>
+  </ul>
+
+  <h2>🤝 Connect with Me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/gurjit-singh-1164a0235/" target="_blank">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40">
+    </a>
+    <a href="https://www.leetcode.com/guru92921" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40">
+    </a>
+  </p>
+
+  <h2>🛠️ Technologies & Tools</h2>
 <p align="left">
   <a justify="center" href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://qph.cf2.quoracdn.net/main-qimg-07697f1900b835624c3e868ca0b886ad" alt="nextjs" width="50" height="35"/>  </a> 
